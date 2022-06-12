@@ -1,0 +1,18 @@
+:root {
+  --color-primary: #323232;
+  --color-white: #ffffff;
+  --color-grey: #a9a9b3;
+  --color-grey-light: #9aa0a6;
+  --color-green: #00bcd4;
+  --color-danger: #f44336;
+  --bg-black-dark: #050505ea;
+  --bg-black-light: #22222218;
+  --color-pink: #de25f7;
+  --color-orange:#fc1111;
+ 
+}
+
+@import 'design.css';
+@import 'utility.css';
+@import 'component.css';
+@import 'responsive.css';
